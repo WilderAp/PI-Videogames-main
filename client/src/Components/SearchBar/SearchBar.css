@@ -1,0 +1,11 @@
+.search {
+    width: 400px;
+    height: 35px;
+    text-align: center;
+    color: #0a2936; text-Shadow: 0px 0px 9px #457b9d;
+}
+
+.container {
+    border: 2px groove #0a2936;
+    color: #c28e0b;
+}

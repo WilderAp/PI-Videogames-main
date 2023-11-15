@@ -1,0 +1,37 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+:root{
+  --color-font: #e76f51;
+}
+
+body{
+  max-width: 90vw;
+  min-height: 100vh;
+  margin: 0 auto;
+  font-family: sans-serif;
+  background-image: url("./Images/wallpaperflare.com_wallpaper\ \(7\).jpg");
+  background-color: #fb8500;
+  /* background-image: url("./components/css/1018670-minimalism-artwork-globes-world-map.jpg"); */
+  background-repeat: repeat-y ;
+  background-size: cover;
+}
+
+#root{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: #0a0906;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,47 @@
+.Detail {
+  display: flex;
+  width: 70hv;
+  height: 100hv;
+  padding-top: 5rem;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 5em;
+  border: 2px solid #e9c46a;
+  color: #d5d7d5;
+  margin: 1em;
+  gap: 1em;
+  text-align: center;
+  font-family: Comic Sans MS;
+  font-weight: bold;
+  font-size: 15px;
+  COLOR: #e9c46a;
+  text-shadow: 0px 0px 9px #10002b;
+  margin:  auto ;
+  background-color: #001219;
+  justify-content: center;
+
+}
+
+.detail-description {
+  font-size:x-large;
+}
+
+
+
+
+.DetailName {
+  font-size: 70px;
+  padding-bottom: 2%;
+  color: #f7f7f7;
+  text-shadow: 0px 0px 9px #e9c46a;
+}
+
+.DetailImage {
+  width: 90hv;
+  border: 1px solid rgb(232, 228, 224);
+}
+
+.DetailImage img {
+  max-width: 100%;
+  height: auto;
+}
